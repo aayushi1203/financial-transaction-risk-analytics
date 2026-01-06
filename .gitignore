@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+pyvenv.cfg
+.DS_Store
+
+# data
+data/raw/paysim.csv
+data/processed/
