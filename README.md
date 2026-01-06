@@ -42,6 +42,9 @@ Given millions of transactions where fraud is extremely rare (~0.13%), build a m
 ---
 
 ## Reproducibility
-This repo excludes raw/processed CSVs from version control.
+This repo excludes raw and processed CSVs from version control.
 
-1) Place PaySim CSV at:
+Place the PaySim dataset locally at:
+
+```bash
+data/raw/paysim.csv
